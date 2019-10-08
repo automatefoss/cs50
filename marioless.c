@@ -13,7 +13,7 @@ int main(void)
         {
             b+=1;
 
-            if(b>=1)
+            if(b>1)
             {
                 printf("Height:");
             }

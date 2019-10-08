@@ -28,5 +28,5 @@ int main(void)
         }
     n++;
     }
-    printf("\n");
+    printf(" ");
 }

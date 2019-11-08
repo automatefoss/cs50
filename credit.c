@@ -31,7 +31,7 @@ long long int k;
               s+=p%10;
               p=p/10;
               s+=p%10;
-          }
+          
         }
         else
         {
